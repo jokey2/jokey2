@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jonathank-k
 - 👀 I’m interested in PHP, ReactJS, JS, Digital Marketing
 - 🌱 I’m currently learning ReactJs, Node.js and Flutter
-- 💞️ I’m looking to collaborate on PHP, HTML, CSS, Javascript, 
+- 💞️ I’m looking to collaborate on PHP, CSS, Javascript, 
 - 📫 How to reach me jonathank.kabongo@gmail.com
 
 <!---
