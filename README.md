@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jonathankk
+- 👋 Hi, I’m @jonathank-k
 - 👀 I’m interested in PHP, ReactJS, JS, Digital Marketing
 - 🌱 I’m currently learning ReactJs, Node.js and Flutter
 - 💞️ I’m looking to collaborate on PHP, HTML, CSS, Javascript, 
